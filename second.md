@@ -1,2 +1,2 @@
-this is the second file "changed for conlict"
+this is the second file "changed"
 sasd
